@@ -268,6 +268,8 @@ void merge_sort(int a[], int low, int high)
 }
 
 //基数排序
+//外部排序
+
 
 //对辅助数组赋值
 void help_array(int a[], int b[],int n)
